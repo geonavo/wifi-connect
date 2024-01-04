@@ -26,7 +26,7 @@ export const Notifications = ({
 				<Alert m={2} warning>
 					<Txt.span>No wifi networks available.&nbsp;</Txt.span>
 					<Txt.span>
-						Please ensure there is a network within range and reboot the device.
+						Please ensure there is a network within range and reload the page.
 					</Txt.span>
 				</Alert>
 			)}
